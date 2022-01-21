@@ -7,12 +7,14 @@
 
 ## Los usuarios y contraseñas cargados en la base de datos son
 
-Usuario administrador:
-Nombre:Administrador
-Mail:admin@gmail.com
-Contraseña:12345
+ Usuario administrador:
+ 
+- Nombre:Administrador
+- Mail:admin@gmail.com
+- Contraseña:12345
 
-Usuario normal:
-Nombre:Lautaro Nievas
-Mail:lautynievas09@gmail.com
-Contraseña:12345
+Usuario Normal.
+
+- Nombre:Lautaro Nievas
+- Mail:lautynievas09@gmail.com
+- Contraseña:12345
