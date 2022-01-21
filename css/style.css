@@ -154,7 +154,7 @@ input.input_precio{
     margin-top: 50px;
     display: grid;
     grid-column-gap: 20px;
-    grid-template-columns: 1fr fr;
+    grid-template-columns: 1fr 1fr;
     grid-template-areas: 
     "add_categoria edit_categoria";
 }
